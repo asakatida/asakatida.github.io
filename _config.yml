@@ -18,7 +18,7 @@ email: github@holomaplefeline.net
 description: >
   Welcome to the internet home of Asa Katida.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://asakatida.github.io"
 twitter_username: asakatida
 github_username:  asakatida
 
