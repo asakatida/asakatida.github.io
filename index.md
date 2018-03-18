@@ -9,12 +9,12 @@ layout: default
 
 # Projects
 
-[Repo](https://github.com/{{ site.github_username }}/chimera) Python3 interpreter in C++.
+[chimera](https://github.com/{{ site.github_username }}/chimera) Python3 interpreter in C++.
 
-[Repo](https://github.com/{{ site.github_username }}/Lua-ReQL) RethinkDB driver for luarocks environment.
+[Lua-ReQL](https://github.com/{{ site.github_username }}/Lua-ReQL) RethinkDB driver for luarocks environment.
 
-[Repo](https://github.com/{{ site.github_username }}/CaaSbootstrap) microservice intended to bootstrap itself into a compiler.
+[CaaSbootstrap](https://github.com/{{ site.github_username }}/CaaSbootstrap) microservice intended to bootstrap itself into a compiler.
 
-[Repo](https://github.com/{{ site.github_username }}/primes) Sieve of Eratosthenes implemented in golang.
+[primes](https://github.com/{{ site.github_username }}/primes) Sieve of Eratosthenes implemented in golang.
 
-[Repo](https://github.com/{{ site.github_username }}/glowing-chainsaw) markov chain compression algorithm to practice reversible transformations.
+[glowing-chainsaw](https://github.com/{{ site.github_username }}/glowing-chainsaw) markov chain compression algorithm to practice reversible transformations.
