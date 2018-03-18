@@ -15,4 +15,6 @@ layout: default
 
 [Repo](https://github.com/{{ site.github_username }}/CaaSbootstrap) microservice intended to bootstrap itself into a compiler.
 
-[Repo](https://github.com/{{ site.github_username }}/glowing-chainsaw) markov chain compression algorithm to practice reversible .
+[Repo](https://github.com/{{ site.github_username }}/primes) Sieve of Eratosthenes implemented in golang.
+
+[Repo](https://github.com/{{ site.github_username }}/glowing-chainsaw) markov chain compression algorithm to practice reversible transformations.
