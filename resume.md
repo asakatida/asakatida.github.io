@@ -16,22 +16,16 @@ Software Developer
   </tr>
   <tr>
     <td style="margin: 5% auto">Seattle, WA</td>
-    <td style="margin: 5% auto">(971) 202-6859</td>
+    <td style="margin: 5% auto"><a href="tel:+19712026859">(971) 202-6859</a></td>
   </tr>
 </table>
 
 <table style="margin: 5% auto">
   <tr>
-    <td>email</td>
-    <td>LinkedIn</td>
-    <td>GitHub</td>
-    <td>portfolio</td>
-  </tr>
-  <tr>
-    <td>github@holomaplefeline.net</td>
-    <td>linkedin.com/in/{{ site.github_username }}</td>
-    <td>github.com/{{ site.github_username }}</td>
-    <td>asakatida.github.io</td>
+    <td><a href="mailto:github@holomaplefeline.net">email</a></td>
+    <td><a href="https://linkedin.com/in/{{ site.github_username }}">LinkedIn</a></td>
+    <td><a href="https://github.com/{{ site.github_username }}">GitHub</a></td>
+    <td><a href="https://asakatida.github.io">portfolio</a></td>
   </tr>
 </table>
 
