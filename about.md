@@ -14,8 +14,8 @@ My portfolio:
 - [github.com/{{ site.github_username }}](github.com/{{ site.github_username }})
 
 Message me on the following:
-- [github@holomaplefeline.net](github@holomaplefeline.net)
+- [{{ site.email }}]({{ site.email }})
 - [linkedin.com/in/{{ site.github_username }}](linkedin.com/in/{{ site.github_username }})
-- [twitter.com/{{ site.twitter_username }}](twitter.com/{{ site.twitter_username }})
+- [twitter.com/{{ site.github_username }}](twitter.com/{{ site.github_username }})
 
 Macro pictures of nature are the best reason to get away from a keyboard.
