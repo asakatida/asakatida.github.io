@@ -1,3 +1,7 @@
+#!/usr/bin/env bash
+
+set -e -o pipefail
+
 docker run \
   --rm --label=jekyll \
   --volume="$(pwd):/srv/jekyll" \

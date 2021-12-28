@@ -31,23 +31,22 @@ Python developer with a background in distributed system deployment as a control
 ## TECHNICAL SKILLS
 
 * Languages: Python, C++, C, Lua, Swift, Rust, Go, Javascript
-* Tools: Git, Atom, Xcode, Vim, Docker
+* Technology: Ansible, AWS, Chef, CloudFormation, Terraform
+* Tools: Git, Atom, VS Code, Xcode, Vim, Docker
 
 ## EXPERIENCE
 
-_Lua-ReQL_, Aug 2014 to present - [github.com/{{ site.github_username }}/Lua-ReQL] | Product Manager
+_Illumio_, Oct 2021 - present | SRE Manager
 
-* RethinkDB driver for Lua environment in production use across the globe
-* Technologies: Lua, Luarocks, Moonscript, TDD, Git, Atom, OSX
-* Customer facing software maintenance
+* Managed
 
-_RethinkDB_, Oct 2015 to present - [github.com/rethinkdb/rethinkdb] | Technical Product Architect
+_Illumio_, Jan 2021 - Sep 2021 | Senior SRE
 
-* Open source realtime No-SQL distributed database with 10k stars
-* Technologies: Python3, Python2, Ruby, C++, Javascript, Git
-* Added support for Python3 to Python driver
-* Implemented extensible Python ORM support through JSON
-* Improved automation of driver implementation in new languages
+* Architected
+
+_Illumio_, Aug 2018 - Dec 2020 | SRE
+
+* Developed
 
 _RLSM_, Nov 2015 - June 2018 | Controls Engineer
 
@@ -73,10 +72,24 @@ _Silver Spring Networks_, June 2010 - Aug 2010 | Manufacturing Intern
 
 ## PROJECTS
 
-_Chimera_, March 2018 - [github.com/{{ site.github_username }}/chimera] | SWE
+_Chimera_, March 2018 to present - [github.com/{{ site.github_username }}/chimera] | SWE
 
 * Python3 interpreter implementation
 * Technology: C++, Python3, Cmake, Fuzz testing, Fish scripting
+
+_Lua-ReQL_, Aug 2014 to December 2018 - [github.com/{{ site.github_username }}/Lua-ReQL] | Product Manager
+
+* RethinkDB driver for Lua environment in production use across the globe
+* Technologies: Lua, Luarocks, Moonscript, TDD, Git, Atom, OSX
+* Customer facing software maintenance
+
+_RethinkDB_, Oct 2015 to December 2018 - [github.com/rethinkdb/rethinkdb] | Technical Product Architect
+
+* Open source realtime No-SQL distributed database with 10k stars
+* Technologies: Python3, Python2, Ruby, C++, Javascript, Git
+* Added support for Python3 to Python driver
+* Implemented extensible Python ORM support through JSON
+* Improved automation of driver implementation in new languages
 
 ## EDUCATION
 

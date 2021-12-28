@@ -19,7 +19,6 @@ description: >
   Welcome to the internet home of Asa Katida.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://asakatida.github.io"
-twitter_username: asakatida
 github_username:  asakatida
 
 # Build settings
